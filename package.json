@@ -1,0 +1,28 @@
+{
+  "name": "code-challenge-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cultura-IT/code-challenge-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cultura-IT/code-challenge-nodejs/issues"
+  },
+  "homepage": "https://github.com/Cultura-IT/code-challenge-nodejs#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "uuid": "^8.1.0"
+  }
+}
